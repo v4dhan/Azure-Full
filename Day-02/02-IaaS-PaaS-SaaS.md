@@ -12,6 +12,12 @@ IaaS is a cloud computing model that provides virtualized computing resources ov
 
 - **Flexibility:** IaaS is suitable for a wide range of applications, offering flexibility in terms of technology stack.
 
+- Components of IaaS in Azure:
+
+Virtual Machines (VMs): Virtual servers that can run applications and services as if they were physical machines.
+Storage: Scalable storage solutions for storing data, backups, and other content.
+Networking: Virtual networks, load balancers, and gateways to manage network traffic and connectivity.
+
 ## Platform as a Service (PaaS)
 
 PaaS is a cloud computing model that provides a platform allowing customers to develop, run, and manage applications without dealing with the complexity of underlying infrastructure. In Azure, PaaS offerings include Azure App Service, Azure SQL Database, and Azure Functions.
