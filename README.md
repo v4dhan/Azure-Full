@@ -11,7 +11,7 @@
 - Vocabulary
    - Virtualization
    - Virtual Machine 
-   - API
+   - APIs
    - Regions
    - Avalaibility Zones
    - Scalability
