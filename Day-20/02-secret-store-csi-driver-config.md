@@ -82,7 +82,7 @@ spec:
     objects:  |
       array:
         - |
-          objectName: secret1             # Set to the name of your secret
+          objectName: secrets1             # Set to the name of your secret
           objectType: secret              # object types: secret, key, or cert
           objectVersion: ""               # [OPTIONAL] object versions, default to latest if empty
         - |
