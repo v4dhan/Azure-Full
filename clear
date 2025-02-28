@@ -1,0 +1,263 @@
+[33mcommit c1b5ae6061bcdc38e69946ce87d01e555c7270c8[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mjoseph[m[33m)[m
+Author: Joseph <103354543+smackdack@users.noreply.github.com>
+Date:   Fri Feb 28 12:52:35 2025 +0530
+
+    Joseph is being added
+
+[33mcommit 5b2d93306eb0a623923fa3dd00c9761a2da4e5df[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: iam-veeramalla <abhishek.veeramalla@gmail.com>
+Date:   Thu Mar 14 16:34:26 2024 +0530
+
+    feat: Add files for Day-23
+    
+    Signed-off-by: iam-veeramalla <abhishek.veeramalla@gmail.com>
+
+[33mcommit 5f123b620bf35cd59362233ee4c97f4fd08f1d38[m
+Author: Abhishek Veeramalla <abhishek.veeramalla@gmail.com>
+Date:   Tue Mar 12 18:57:58 2024 +0530
+
+    Create 01-create-function-app.sh
+
+[33mcommit 05cc1fc50021b5984129b91090dd83744a7ea1ae[m
+Author: Abhishek Veeramalla <abhishek.veeramalla@gmail.com>
+Date:   Tue Mar 12 18:51:41 2024 +0530
+
+    Update README.md
+
+[33mcommit 2648fab5a287a5288f71f56fbe5e98f86aaac1ae[m
+Author: Abhishek Veeramalla <abhishek.veeramalla@gmail.com>
+Date:   Thu Feb 29 17:22:29 2024 +0530
+
+    Delete Day-19 directory
+
+[33mcommit 97bd1d0354bcaacbafab6644c61dc11d91c5ae4f[m
+Author: iam-veeramalla <abhishek.veeramalla@gmail.com>
+Date:   Thu Feb 29 17:21:55 2024 +0530
+
+    fix issues with Day-20
+    
+    Signed-off-by: iam-veeramalla <abhishek.veeramalla@gmail.com>
+
+[33mcommit 08ab911f47b7d287108964561ab045a5d265eab4[m
+Author: Abhishek Veeramalla <abhishek.veeramalla@gmail.com>
+Date:   Thu Feb 29 17:16:53 2024 +0530
+
+    Create Day-20
+
+[33mcommit 60ec6aa4174a2b56dee80af93a1013a0fbdef17f[m
+Author: Abhishek Veeramalla <abhishek.veeramalla@gmail.com>
+Date:   Thu Feb 29 17:07:08 2024 +0530
+
+    Update README.md
+
+[33mcommit 0ccd8552d0951decb480d80cd481ae86ff28bd74[m
+Author: Abhishek Veeramalla <abhishek.veeramalla@gmail.com>
+Date:   Thu Feb 29 16:06:47 2024 +0530
+
+    push files for day-20
+
+[33mcommit 049f8106e1cc1b76ace45ded43fc8744f563ba97[m
+Author: Abhishek Veeramalla <abhishek.veeramalla@gmail.com>
+Date:   Tue Feb 20 18:09:58 2024 +0530
+
+    Update 01-azure-devops-interview-questions.md
+
+[33mcommit f4337f15ad5df0b4f97060f1604181076ee599a8[m
+Author: Abhishek Veeramalla <abhishek.veeramalla@gmail.com>
+Date:   Tue Feb 20 18:09:01 2024 +0530
+
+    Create 01-azure-devops-interview-questions.md
+
+[33mcommit 34856734ac1a6917e4aba5eea8febe381e3dbd1e[m
+Author: Abhishek Veeramalla <abhishek.veeramalla@gmail.com>
+Date:   Fri Feb 16 19:11:59 2024 +0530
+
+    Update updateK8sManifests.sh
+
+[33mcommit 2c9e69cb13da75df6108e590838b6643e438a1e8[m
+Author: Abhishek Veeramalla <abhishek.veeramalla@gmail.com>
+Date:   Fri Feb 16 13:44:00 2024 +0530
+
+    Update README.md
+
+[33mcommit a01fa2bf4448fa025111b23e4e4eb63f6946a5fd[m
+Author: Abhishek Veeramalla <abhishek.veeramalla@gmail.com>
+Date:   Wed Feb 14 12:18:39 2024 +0530
+
+    update files
+
+[33mcommit 941580aa56cc413542446302a01b5a84596be685[m
+Author: Abhishek Veeramalla <abhishek.veeramalla@gmail.com>
+Date:   Wed Feb 14 12:12:37 2024 +0530
+
+    Create vote-pipeline.yaml
+
+[33mcommit 13e8548984b5a51838521f76220d0a9785d03f5b[m
+Author: Abhishek Veeramalla <abhishek.veeramalla@gmail.com>
+Date:   Wed Feb 14 12:11:18 2024 +0530
+
+    Update updateK8sManifests.sh
+
+[33mcommit 5cfbaaa472bc524b9538dcaf6ca8849f213723db[m
+Author: Abhishek Veeramalla <abhishek.veeramalla@gmail.com>
+Date:   Wed Feb 14 10:34:12 2024 +0530
+
+    update day-15 files
+
+[33mcommit 8df02ff26193560599cceb4b70b61b78b092f431[m
+Author: Abhishek Veeramalla <abhishek.veeramalla@gmail.com>
+Date:   Tue Feb 13 19:39:02 2024 +0530
+
+    Update README.md
+
+[33mcommit f87ca9bed1533cd7ff46a88342306d6b2a0f892b[m
+Author: Abhishek Veeramalla <abhishek.veeramalla@gmail.com>
+Date:   Fri Feb 9 17:21:31 2024 +0530
+
+    Update README.md
+
+[33mcommit a2b054a6c38d19223e1d87e8445d64539b256e65[m
+Author: Abhishek Veeramalla <abhishek.veeramalla@gmail.com>
+Date:   Fri Feb 9 17:20:54 2024 +0530
+
+    Update README.md
+
+[33mcommit 9505e3013fb352baf5ad4fc5f19fcfe894bc0e78[m
+Author: Abhishek Veeramalla <abhishek.veeramalla@gmail.com>
+Date:   Wed Feb 7 12:10:49 2024 +0530
+
+    Update README.md
+
+[33mcommit b9bd0a1cbd50372322e68581f2ee2b12de345dc0[m
+Author: Abhishek Veeramalla <abhishek.veeramalla@gmail.com>
+Date:   Tue Feb 6 21:02:53 2024 +0530
+
+    Update README.md
+
+[33mcommit a6fcb7b53913fe396bd27ebae0e747e6d0e6adcd[m
+Author: Abhishek Veeramalla <abhishek.veeramalla@gmail.com>
+Date:   Tue Feb 6 20:45:25 2024 +0530
+
+    add files for day-12
+
+[33mcommit e5b89def48382d274044d4853a3966ef8b44e583[m
+Author: Abhishek Veeramalla <abhishek.veeramalla@gmail.com>
+Date:   Mon Feb 5 23:55:53 2024 +0530
+
+    update syntax
+
+[33mcommit 848ae5d8c7094bf9be7f56b5004f2cb36554cbcf[m
+Author: iam-veeramalla <abhishek.veeramalla@gmail.com>
+Date:   Mon Feb 5 15:56:45 2024 +0530
+
+    feat: add files for day-11
+    
+    Signed-off-by: iam-veeramalla <abhishek.veeramalla@gmail.com>
+
+[33mcommit 22f8a39ef102bdd3d0847d8ca772643a7da458b4[m
+Author: Abhishek Veeramalla <abhishek.veeramalla@gmail.com>
+Date:   Fri Feb 2 16:38:27 2024 +0530
+
+    add files for day-10
+
+[33mcommit 44ac97b7324e9f7c66d4411b4292b2fb4267188b[m
+Author: Abhishek Veeramalla <abhishek.veeramalla@gmail.com>
+Date:   Thu Feb 1 18:56:49 2024 +0530
+
+    Update README.md
+
+[33mcommit b2b1d238bfc0c010aeec1082ebd4aa141ce95971[m
+Author: Abhishek Veeramalla <abhishek.veeramalla@gmail.com>
+Date:   Thu Feb 1 18:40:47 2024 +0530
+
+    Added files for day-09
+
+[33mcommit 35e80a84daacbb7c2e6f0242152ad12271d09539[m
+Author: Abhishek Veeramalla <abhishek.veeramalla@gmail.com>
+Date:   Wed Jan 31 18:12:26 2024 +0530
+
+    added notes for day-5, day-6 and day-7
+
+[33mcommit aed3e54a927d3f17c9581f7674138576fd7cf8d6[m
+Author: Abhishek Veeramalla <abhishek.veeramalla@gmail.com>
+Date:   Tue Jan 30 20:55:31 2024 +0530
+
+    Update README.md
+
+[33mcommit e181a1cb2c95f8133a2d4cc26753785ee2f13fd7[m
+Author: Abhishek Veeramalla <abhishek.veeramalla@gmail.com>
+Date:   Mon Jan 29 00:25:22 2024 +0530
+
+    update day-6
+
+[33mcommit a034dec4de940c8e10db8c572695efb77041ce58[m
+Author: Abhishek Veeramalla <abhishek.veeramalla@gmail.com>
+Date:   Fri Jan 26 13:37:23 2024 +0530
+
+    Update README.md
+
+[33mcommit eadd7ebc091644ae100090560c4750554f056008[m
+Author: Abhishek Veeramalla <abhishek.veeramalla@gmail.com>
+Date:   Thu Jan 25 21:28:21 2024 +0530
+
+    Update 03-useful-links.md
+
+[33mcommit 95d6736fd324122cf04873f8337715dfac804b46[m
+Author: Abhishek Veeramalla <abhishek.veeramalla@gmail.com>
+Date:   Thu Jan 25 21:27:37 2024 +0530
+
+    Create 03-useful-links.md
+
+[33mcommit 6652df41960748f34ee4a9c78e018075f12077d3[m
+Author: Abhishek Veeramalla <abhishek.veeramalla@gmail.com>
+Date:   Thu Jan 25 17:46:39 2024 +0530
+
+    notes for day-3 and day-4
+
+[33mcommit cd2a3eb7fd6c23356ee285e39464d69d593f58b7[m
+Author: Abhishek Veeramalla <abhishek.veeramalla@gmail.com>
+Date:   Mon Jan 22 23:39:50 2024 +0530
+
+    notes for day-2
+
+[33mcommit 821effcd6f4bb0906f2bae86e7a0ef20219263a0[m
+Author: Abhishek Veeramalla <abhishek.veeramalla@gmail.com>
+Date:   Mon Jan 22 15:13:43 2024 +0530
+
+    Update README.md
+
+[33mcommit 8c833761314d8507e0c0d856583ddb6fb9231fd9[m
+Author: Abhishek Veeramalla <abhishek.veeramalla@gmail.com>
+Date:   Fri Jan 19 18:27:06 2024 +0530
+
+    Update README.md
+
+[33mcommit bcf430b05a5c0173668e21650b99355b0a418e26[m
+Author: Abhishek Veeramalla <abhishek.veeramalla@gmail.com>
+Date:   Fri Jan 19 16:38:19 2024 +0530
+
+    Update README.md
+
+[33mcommit 52374c48f82c7ab6ccf0558c368757eb22b89c09[m
+Author: Abhishek Veeramalla <abhishek.veeramalla@gmail.com>
+Date:   Fri Jan 19 16:37:59 2024 +0530
+
+    Update README.md
+
+[33mcommit 9685dd71d72fb5310b55f9ce8377c80ace89e6fb[m
+Author: Abhishek Veeramalla <abhishek.veeramalla@gmail.com>
+Date:   Fri Jan 19 16:18:19 2024 +0530
+
+    Added files for Day-1
+
+[33mcommit 6317e4ebc3e49ac3ad92d7b38086b8f2b62bc97e[m
+Author: Abhishek Veeramalla <abhishek.veeramalla@gmail.com>
+Date:   Wed Dec 27 15:42:23 2023 +0530
+
+    Initial Draft
+
+[33mcommit ddde3f618f174632aee54292f43a4e6668078bf8[m
+Author: Abhishek Veeramalla <abhishek.veeramalla@gmail.com>
+Date:   Wed Dec 27 15:31:11 2023 +0530
+
+    Initial commit
